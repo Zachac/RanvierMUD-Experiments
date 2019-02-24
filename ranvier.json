@@ -18,7 +18,9 @@
     "player-groups",
     "progressive-respawn",
     "telnet-networking",
-    "websocket-networking"
+    "websocket-networking",
+    "multi-class",
+    "command-processor"
   ],
   "dataSources": {
     "YamlArea": {
